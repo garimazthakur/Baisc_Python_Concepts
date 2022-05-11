@@ -1,4 +1,4 @@
-# Baisc_Python_Concepts
+# Basic_Python_Concepts
 
 
 ...in progress
